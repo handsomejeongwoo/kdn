@@ -1,0 +1,29 @@
+.Li1_section {
+  background-color: #b8e994;
+  height: 850px;
+}
+.GM_down_title {
+  text-align: center;
+}
+.GM_down_title > h1 {
+  padding: 70px 0px 30px 0px;
+}
+
+.GM_down_title p {
+  font-size: 20px;
+  padding-bottom: 70px;
+}
+.GM_down_title button {
+  width: 250px;
+  height: 70px;
+  cursor: pointer;
+  border: 1px solid black;
+  transition: background-color 0.3s;
+  font-size: 17px;
+  font-weight: 700;
+}
+.GM_down_title button:hover {
+  background-color: #32ff7e;
+  width: 300px;
+  height: 80px;
+}
