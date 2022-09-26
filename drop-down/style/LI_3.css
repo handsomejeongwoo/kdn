@@ -1,0 +1,67 @@
+.Li3_section {
+  text-align: center;
+}
+.Li3_section p {
+  font-size: 23px;
+}
+.Li3_section p:nth-child(1) {
+  margin-bottom: 50px;
+}
+.introduce {
+  text-align: center;
+}
+.introduce h1 {
+  margin: 25px 0px 25px 0;
+}
+.introduce p {
+  margin-bottom: 50px;
+}
+.team_introTitle {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.team_Profile {
+  display: flex;
+  justify-content: center;
+}
+.team_Profile div:nth-child(2) {
+  margin: 0px 20px 0px 20px;
+}
+.member {
+  width: 250px;
+  height: 350px;
+  text-align: center;
+}
+.member .team_img {
+  width: 120px;
+  height: 120px;
+  background-color: yellow;
+  margin: 0 auto;
+}
+.member1 .team_img {
+  background-image: url(https://avatars.githubusercontent.com/u/103944584?v=4);
+  background-size: cover;
+  border-radius: 100px;
+  margin-bottom: 15px;
+}
+.member2 .team_img {
+  background-image: url(https://avatars.githubusercontent.com/u/103944346?v=4);
+  background-size: cover;
+  border-radius: 100px;
+  margin-bottom: 15px;
+}
+.member3 .team_img {
+  background-image: url(https://avatars.githubusercontent.com/u/46744270?v=4);
+  background-size: cover;
+  border-radius: 100px;
+  margin-bottom: 15px;
+}
+.membername {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.stack {
+  font: 17px;
+  font-weight: 500;
+}
